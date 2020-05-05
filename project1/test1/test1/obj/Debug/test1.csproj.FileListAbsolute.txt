@@ -1,0 +1,11 @@
+D:\cshark\beginner\project1\test1\test1\bin\Debug\test1.exe.config
+D:\cshark\beginner\project1\test1\test1\bin\Debug\test1.exe
+D:\cshark\beginner\project1\test1\test1\bin\Debug\test1.pdb
+D:\cshark\beginner\project1\test1\test1\obj\Debug\test1.csprojAssemblyReference.cache
+D:\cshark\beginner\project1\test1\test1\obj\Debug\test1.Form1.resources
+D:\cshark\beginner\project1\test1\test1\obj\Debug\test1.Form2.resources
+D:\cshark\beginner\project1\test1\test1\obj\Debug\test1.Properties.Resources.resources
+D:\cshark\beginner\project1\test1\test1\obj\Debug\test1.csproj.GenerateResource.cache
+D:\cshark\beginner\project1\test1\test1\obj\Debug\test1.csproj.CoreCompileInputs.cache
+D:\cshark\beginner\project1\test1\test1\obj\Debug\test1.exe
+D:\cshark\beginner\project1\test1\test1\obj\Debug\test1.pdb
